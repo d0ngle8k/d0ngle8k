@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="oia-uia.gif" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm d0ngle8k, a college student dreaming to be a Cyber Security Specialist 👋🏼
 
