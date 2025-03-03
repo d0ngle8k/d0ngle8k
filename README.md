@@ -1,6 +1,6 @@
-<img src="oia-uia.gif" alt="GitHub Banner" width="100%" />
+<img src="oia-uia.gif" alt="GitHub Banner" width="50%" />
 
-# Hello World!, I'm d0ngle8k, a college student dreaming to be a Cyber Security Specialist 👋🏼
+# Hello !, I'm d0ngle8k, a college student dreaming to be a Cyber Security Specialist 👋🏼
 
 🛜 Currently working on my own base project and doing LeetCode every day<br>
 👨🏼‍🎓 Studying computer engineering-based computer science at Sai Gon University in Ho Chi Minh City<br>
