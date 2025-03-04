@@ -5,7 +5,6 @@
 👨🏼‍💻 Working as a Cyber Analyst/IT Support since 2021 and now working remote for[![Outlier](https://img.shields.io/badge/Outlier-%23000000.svg?style=for-the-badge&logoColor=white)](https://www.outlier.ai/)<br>
   <h3 align="left">Contact me via trggiathanh2003@gmail.com</h3>
 <h3 align="left">💻 Ask me about:</h3>
-<p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   </a>
@@ -36,7 +35,7 @@
   <a href="https://www.torproject.org/" target="_blank" rel="noreferrer">
     <img src="https://www.torproject.org/static/images/tor-logo.svg" alt="Tor" width="40" height="40"/>
   </a>
-</p>
+
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
