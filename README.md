@@ -1,4 +1,4 @@
-# Hello !, I'm d0ngle8k, a college student dreaming to be a Cyber Security Specialist 👋🏼
+# Hello I'm d0ngle8k, a college student dreaming to be a Cyber Security Specialist aka "Black Hat" 👋🏼
 
 🛜 Currently working on my own base project and doing LeetCode every day<br>
 👨🏼‍🎓 Studying computer engineering  at Sai Gon University in Ho Chi Minh City<br>
