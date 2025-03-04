@@ -3,8 +3,8 @@
 🛜 Currently working on my own base project and doing LeetCode every day<br>
 👨🏼‍🎓 Studying computer engineering  at Sai Gon University in Ho Chi Minh City<br>
 👨🏼‍💻 Working as a Cyber Analyst/IT Support since 2021 and now working remote for[![Outlier](https://img.shields.io/badge/Outlier-%23000000.svg?style=for-the-badge&logoColor=white)](https://www.outlier.ai/)<br>
-# 💻 Ask me about:
-<h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Contact me via trggiathanh2003@gmail.com</h3>
+<h3 align="left">💻 Ask me about:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
@@ -32,6 +32,9 @@
   </a>
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a> 
+  <a href="https://www.torproject.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.torproject.org/static/images/tor-logo.svg" alt="Tor" width="40" height="40"/>
   </a>
 </p>
 
@@ -133,21 +136,18 @@
 [![IDM](https://img.shields.io/badge/IDM-%23000000.svg?style=for-the-badge&logoColor=white)](https://www.bing.com/search?q=idm&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=idm&sc=12-3&sk=&cvid=DA7D9E6148EC4ECEAD8F423F9FC19C64&ghsh=0&ghacc=0&ghpl=)
 [![IDM Activation Script](https://img.shields.io/badge/IDM%20Activation%20Script-%23000000.svg?style=for-the-badge&logoColor=white)](https://github.com/lstprjct/IDM-Activation-Script)
 
-<h3 align="left">Contact Me:</h3>
-<p align="left">
-  <a href="mailto:trggiathanh2003@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left" style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.instagram.com/trggiathanh/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://www.facebook.com/GiaThanh683/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/>
   </a>
   <a href="https://www.youtube.com/@catplayCS2" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/th%C3%A0nh-tr%C6%B0%C6%A1ng-gia-800609339/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
