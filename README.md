@@ -2,7 +2,7 @@
 
 🛜 Currently working on my own base project and doing LeetCode every day<br>
 👨🏼‍🎓 Studying computer engineering  at Sai Gon University in Ho Chi Minh City<br>
-👨🏼‍💻 Working as a Cyber Analyst/IT Support since 2021 and now working remote for[![Outlier](https://img.shields.io/badge/Outlier-%23000000.svg?style=for-the-badge&logoColor=white)](https://www.outlier.ai/)<br>
+👨🏼‍💻 Working as a Cyber Analyst/IT Support since 2021 and now working remote for[![Outlier](https://img.shields.io/badge/Outlier-%23000000.svg?style=for-the-badge&logoColor=white)]([https://www.outlier.ai/](https://app.outlier.ai/expert/opportunities?utm_source=referral&referring_user=02584c941dfdf319f21f474a2b78e07dd3345bae79a132f2a62617cac61e964015a6642e611c7d67bd12b0fa3bdb8a7a))<br>
   <h3 align="left">Contact me via trggiathanh2003@gmail.com</h3>
 <h3 align="left">💻 Ask me about:</h3>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
