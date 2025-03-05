@@ -124,8 +124,10 @@
 </div>
 
 <div align="center">
-  <img src="oia-uia.gif" alt="GitHub Banner" width="50%" />
+  <img src="oia-uia.gif" alt="GitHub Banner" width="45%" style="display: inline-block;"/>
+  <img src="rat-dancing-meme.gif" alt="GitHub Banner" width="45%" style="display: inline-block;"/>
 </div>
+
 
 # 💻 Useful thing (more update coming soon):
 [![Chris Titus Windows Tool](https://img.shields.io/badge/Chris%20Titus%20Windows%20Tool-%23007ACC.svg?style=for-the-badge&logoColor=white)](https://christitus.com/windows-tool/)
