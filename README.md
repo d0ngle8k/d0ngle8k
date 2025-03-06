@@ -114,15 +114,6 @@
 [![](https://visitcount.itsvg.in/api?id=DogguG&icon=0&color=0)](https://visitcount.itsvg.in)
 [![trophy](https://github-profile-trophy.vercel.app/?username=YourUsername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DogguG/DogguG/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DogguG/DogguG/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-</div>
-
 <div align="center">
   <img src="oia-uia.gif" alt="GitHub Banner" width="45%" style="display: inline-block;"/>
   <img src="rat-dancing-meme.gif" alt="GitHub Banner" width="45%" style="display: inline-block;"/>
@@ -152,3 +143,10 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DogguG/DogguG/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DogguG/DogguG/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+</div>
