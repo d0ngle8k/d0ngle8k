@@ -91,20 +91,20 @@
 [![Nessus](https://img.shields.io/badge/Nessus-%2300A4CC.svg?style=for-the-badge&logo=nessus&logoColor=white)](https://www.tenable.com/products/nessus)
 
 # 💻 Operating Systems I've used:
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?style=for-the-badge&logo=windowsxp&logoColor=white)
-![Windows 7](https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows Vista](https://img.shields.io/badge/Windows%20Vista-9A9A9A?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 8](https://img.shields.io/badge/Windows%208-00A4EF?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)</br>
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) 
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
-![Elementary OS](https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)</br>
+[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows)
+[![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?style=for-the-badge&logo=windowsxp&logoColor=white)](https://en.wikipedia.org/wiki/Windows_XP)
+[![Windows 7](https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows_7)
+[![Windows Vista](https://img.shields.io/badge/Windows%20Vista-9A9A9A?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows_Vista)
+[![Windows 8](https://img.shields.io/badge/Windows%208-00A4EF?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows_8)
+[![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows_10)
+[![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows_11)
 
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
+[![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)](https://www.centos.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Elementary OS](https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white)](https://elementary.io/)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 # 📊 GitHub Stats:
 <div align="center">
 
