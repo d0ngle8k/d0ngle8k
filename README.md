@@ -151,5 +151,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DogguG/DogguG/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-  <img src="meme.gif" alt="GitHub Banner" width="45%" style="display: inline-block;"/>
+  <img src="meme.gif" alt="GitHub Banner" width="33%" style="display: inline-block;"/>
+  <img src="meme.gif" alt="GitHub Banner" width="33%" style="display: inline-block;"/>
+  <img src="meme.gif" alt="GitHub Banner" width="33%" style="display: inline-block;"/>
 </div>
