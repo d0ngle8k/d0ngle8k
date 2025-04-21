@@ -119,6 +119,16 @@
   <img src="rat-dancing-meme.gif" alt="GitHub Banner" width="45%" style="display: inline-block;"/>
 </div>
 
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DogguG/DogguG/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DogguG/DogguG/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+  <img src="meme.gif" alt="GitHub Banner" width="33%" style="display: inline-block;"/>
+  <img src="meme.gif" alt="GitHub Banner" width="33%" style="display: inline-block;"/>
+  <img src="meme.gif" alt="GitHub Banner" width="33%" style="display: inline-block;"/>
+</div>
 
 # 💻 Useful thing (more update coming soon):
 [![Chris Titus Windows Tool](https://img.shields.io/badge/Chris%20Titus%20Windows%20Tool-%23007ACC.svg?style=for-the-badge&logoColor=white)](https://christitus.com/windows-tool/)
@@ -129,8 +139,7 @@
 [![IDM Activation Script](https://img.shields.io/badge/IDM%20Activation%20Script-%23000000.svg?style=for-the-badge&logoColor=white)](https://github.com/lstprjct/IDM-Activation-Script)
 [![Vencord](https://img.shields.io/badge/Vencord-%23007ACC.svg?style=for-the-badge&logoColor=white)](https://vencord.dev/)
 
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect and support me through :</h3>
 <p align="left" style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.instagram.com/trggiathanh/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40"/>
@@ -144,14 +153,5 @@
   <a href="https://www.linkedin.com/in/th%C3%A0nh-tr%C6%B0%C6%A1ng-gia-800609339/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  <a href="https://www.buymeacoffee.com/d0ngle8k"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=d0ngle8k&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 </p>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DogguG/DogguG/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DogguG/DogguG/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-  <img src="meme.gif" alt="GitHub Banner" width="33%" style="display: inline-block;"/>
-  <img src="meme.gif" alt="GitHub Banner" width="33%" style="display: inline-block;"/>
-  <img src="meme.gif" alt="GitHub Banner" width="33%" style="display: inline-block;"/>
-</div>
