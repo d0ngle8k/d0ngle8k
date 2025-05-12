@@ -1,4 +1,5 @@
-# Hello I'm d0ngle8k, a college student dreaming to be a Security Engineer
+# Hello I'm d0ngle8k, a college student dreaming to be a Security Engineer 
+![Visitors](https://count.getloli.com/get/@DogguG?theme=rule34) ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=DogguG) 
 
 🛜 Currently working on my own base project and doing LeetCode every day<br>
 👨🏼‍🎓 Studying computer engineering  at Sai Gon University in Ho Chi Minh City<br>
