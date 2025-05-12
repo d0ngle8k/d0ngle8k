@@ -1,5 +1,5 @@
 # Hello I'm d0ngle8k, a college student dreaming to be a Security Engineer 
-![Visitors](https://count.getloli.com/get/@DogguG?theme=rule34) ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=DogguG) 
+![Visitors](https://count.getloli.com/get/@DogguG?theme=rule34)
 
 🛜 Currently working on my own base project and doing LeetCode every day<br>
 👨🏼‍🎓 Studying computer engineering  at Sai Gon University in Ho Chi Minh City<br>
@@ -60,22 +60,9 @@
   </a>
 </p>
 
-# 💻 Learning Platforms and Communities
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/programming/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/)
-[![edX](https://img.shields.io/badge/edX-%2300A1F1.svg?style=for-the-badge&logo=edx&logoColor=white)](https://www.edx.org/)
-[![Udemy](https://img.shields.io/badge/Udemy-%23EA5252.svg?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/)
-[![Dev.to](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/)
-[![W3Schools](https://img.shields.io/badge/W3Schools-%23107C10.svg?style=for-the-badge&logo=w3schools&logoColor=white)](https://www.w3schools.com/)
 
 # 💻 Tools:
 ![Ventoy](https://img.shields.io/badge/Ventoy-%23000000.svg?style=for-the-badge&logo=ventoy&logoColor=white)
-![Rufus](https://img.shields.io/badge/Rufus-%23000000.svg?style=for-the-badge&logo=rufus&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
@@ -85,11 +72,6 @@
 [![Metasploit](https://img.shields.io/badge/Metasploit-%232C3E50.svg?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6F00.svg?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
-[![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-%23A8B9CC.svg?style=for-the-badge&logo=john-the-ripper&logoColor=white)](https://www.openwall.com/john/)
-[![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-%23FF9900.svg?style=for-the-badge&logo=aircrack-ng&logoColor=white)](https://www.aircrack-ng.org/)
-[![Snort](https://img.shields.io/badge/Snort-%23A0C4FF.svg?style=for-the-badge&logo=snort&logoColor=white)](https://www.snort.org/)
-[![OpenVAS](https://img.shields.io/badge/OpenVAS-%2300A000.svg?style=for-the-badge&logo=openvas&logoColor=white)](https://www.greenbone.net/en/vulnerability-management/)
-[![Nessus](https://img.shields.io/badge/Nessus-%2300A4CC.svg?style=for-the-badge&logo=nessus&logoColor=white)](https://www.tenable.com/products/nessus)
 
 # 💻 Operating Systems I've used:
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows)
@@ -105,7 +87,6 @@
 [![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)](https://www.centos.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Elementary OS](https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white)](https://elementary.io/)
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 # 📊 GitHub Stats:
 <div align="center">
 
