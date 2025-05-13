@@ -1,10 +1,25 @@
-# Hello I'm d0ngle8k, a college student dreaming to be a Security Engineer 
-![Visitors](https://count.getloli.com/get/@DogguG?theme=rule34)
+# Hello I'm d0ngle8k, glad that you here
+<div align ="center"> 
 
-🛜 Currently working on my own base project and doing LeetCode every day<br>
-👨🏼‍🎓 Studying computer engineering  at Sai Gon University in Ho Chi Minh City<br>
-👨🏼‍💻 Working as a Cyber Analyst/IT Support since 2021 and now working remote as Prompt Engineer for [![Outlier](https://img.shields.io/badge/Outlier-%23000000.svg?style=for-the-badge&logoColor=white)](https://app.outlier.ai/expert/opportunities?utm_source=referral&referring_user=f61bcd324887bc84acfbbb69074c97a17354426b19450a02266103a5ab685f1d84c518af5fcbc2d7bc6f4f5057b9da2c)
-  <h3 align="left">Contact me via trggiathanh2003@gmail.com</h3>
+
+![Visitors](https://count.getloli.com/get/@DogguG?theme=rule34)
+</div>
+<img align="right" alt="d0ngle8k" src="coding.webp" width="320px" />
+
+Love interacting with the community, sharing knowledge, and learning new things.
+
+**Talking about personal stuff:**
+
+- 👨 I’m Truong Gia Thanh (d0ngle8k).
+- 😄 Pronouns: he/him/his.
+- 📧 How to reach me: trggiathanh2003@gmail.com
+- 💬 Discord: thanh7051
+- 🌐 Website: not setup yet
+- 🛜 Currently working on my own base project and doing LeetCode every day<br>
+- 👨🏼‍🎓 Studying computer engineering  at Sai Gon University in Ho Chi Minh City<br>
+- 👨🏼‍💻 Working as a Cyber Analyst/IT Support since 2021 and now working remote as Prompt Engineer for [![Outlier](https://img.shields.io/badge/Outlier-%23000000.svg?style=for-the-badge&logoColor=white)](https://app.outlier.ai/expert/opportunities?utm_source=referral&referring_user=f61bcd324887bc84acfbbb69074c97a17354426b19450a02266103a5ab685f1d84c518af5fcbc2d7bc6f4f5057b9da2c)
+
+
 <h3 align="left">💻 Ask me about:</h3>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
@@ -90,8 +105,9 @@
 # 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=DogguG&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DogguG&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=DogguG&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=DogguG&theme=dark&hide_border=false)<
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d0ngle8k&theme=github_dark" />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DogguG&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=DogguG&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
@@ -104,9 +120,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DogguG/DogguG/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-  <img src="meme.gif" alt="GitHub Banner" width="33%" style="display: inline-block;"/>
-  <img src="meme.gif" alt="GitHub Banner" width="33%" style="display: inline-block;"/>
-  <img src="meme.gif" alt="GitHub Banner" width="33%" style="display: inline-block;"/>
 </div>
 
 # 💻 Useful thing (more update coming soon):
