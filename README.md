@@ -104,7 +104,7 @@ Love interacting with the community, sharing knowledge, and learning new things.
 [![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)](https://www.centos.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Elementary OS](https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white)](https://elementary.io/)
-# 📊 GitHub Stats:
+# 📊 Stats:
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=DogguG&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
@@ -114,7 +114,29 @@ Love interacting with the community, sharing knowledge, and learning new things.
 [![](https://visitcount.itsvg.in/api?id=DogguG&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
+# 📊 LeetCode Stats
 
+<div align="center";style="background-color:#0D1117; padding:15px; border-radius:6px;">
+  
+  <table>
+    <tr>
+      <td>Total Solved:</td>
+      <td><img src="https://img.shields.io/badge/dynamic/json?style=flat&color=brightgreen&label=&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDogguG" /></td>
+    </tr>
+    <tr>
+      <td>Ranking:</td>
+      <td><img src="https://img.shields.io/badge/dynamic/json?style=flat&color=blue&label=&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDogguG" /></td>
+    </tr>
+    <tr>
+      <td>Acceptance Rate:</td>
+      <td><img src="https://img.shields.io/badge/dynamic/json?style=flat&color=orange&label=&query=acceptanceRate&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDogguG" /></td>
+    </tr>
+    <tr>
+      <td>Contribution Points:</td>
+      <td><img src="https://img.shields.io/badge/dynamic/json?style=flat&color=yellow&label=&query=contributionPoints&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDogguG" /></td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
 <picture>
