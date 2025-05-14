@@ -1,5 +1,5 @@
 <h1 align= "center">
-   Hello I'm d0ngle8k, glad that you here 
+   Hello I'm d0ngle8k, glad that you here. I like interacting with the community, sharing knowledge, and learning new things.
 </h1>
 <div align ="center"> 
 
@@ -8,7 +8,7 @@
 </div>
 <img align="right" alt="d0ngle8k" src="coding.webp" width="320px" />
 
-Love interacting with the community, sharing knowledge, and learning new things.
+
 
 **Talking about personal stuff:**
 
