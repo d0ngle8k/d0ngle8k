@@ -107,11 +107,11 @@ Love interacting with the community, sharing knowledge, and learning new things.
 # 📊 Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=DogguG&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=DogguG&theme=dark&hide_border=false)<
+![](https://github-readme-stats.vercel.app/api?username=d0ngle8k&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=d0ngle8k&theme=dark&hide_border=false)<
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d0ngle8k&theme=github_dark" />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DogguG&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=DogguG&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=d0ngle8k&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=d0ngle8k&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
 # 📊 LeetCode Stats
