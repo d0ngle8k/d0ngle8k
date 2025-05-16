@@ -88,7 +88,6 @@
 [![Nmap](https://img.shields.io/badge/Nmap-%230094FF.svg?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
 [![Metasploit](https://img.shields.io/badge/Metasploit-%232C3E50.svg?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6F00.svg?style=for-the-badge&logo=burp-suite&logoColor=white)](https://portswigger.net/burp)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/)
 
 # 💻 Operating Systems I've used:
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://en.wikipedia.org/wiki/Windows)
