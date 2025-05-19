@@ -14,7 +14,7 @@
 
 - 👨 I’m Truong Gia Thanh (d0ngle8k).
 - 😄 Pronouns: he/him/his.
-- 📧 Contact for workwork: trggiathanh2003@gmail.com
+- 📧 Contact for work: trggiathanh2003@gmail.com
 - 💬 Discord: thanh7051
 - 🌐 Website: not setup yet
 - 🛜 Currently working on my own base project and doing LeetCode every day<br>
