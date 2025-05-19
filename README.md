@@ -120,19 +120,19 @@
   <table>
     <tr>
       <td>Total Solved:</td>
-      <td><img src="https://img.shields.io/badge/dynamic/json?style=flat&color=brightgreen&label=&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDogguG" /></td>
+      <td><img src="https://img.shields.io/badge/dynamic/json?style=flat&color=brightgreen&label=&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fd0ngle8k" /></td>
     </tr>
     <tr>
       <td>Ranking:</td>
-      <td><img src="https://img.shields.io/badge/dynamic/json?style=flat&color=blue&label=&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDogguG" /></td>
+      <td><img src="https://img.shields.io/badge/dynamic/json?style=flat&color=blue&label=&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fd0ngle8k" /></td>
     </tr>
     <tr>
       <td>Acceptance Rate:</td>
-      <td><img src="https://img.shields.io/badge/dynamic/json?style=flat&color=orange&label=&query=acceptanceRate&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDogguG" /></td>
+      <td><img src="https://img.shields.io/badge/dynamic/json?style=flat&color=orange&label=&query=acceptanceRate&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fd0ngle8k" /></td>
     </tr>
     <tr>
       <td>Contribution Points:</td>
-      <td><img src="https://img.shields.io/badge/dynamic/json?style=flat&color=yellow&label=&query=contributionPoints&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FDogguG" /></td>
+      <td><img src="https://img.shields.io/badge/dynamic/json?style=flat&color=yellow&label=&query=contributionPoints&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fd0ngle8k" /></td>
     </tr>
   </table>
 </div>
