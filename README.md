@@ -111,31 +111,9 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d0ngle8k&theme=github_dark" />
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=d0ngle8k&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 [![](https://visitcount.itsvg.in/api?id=d0ngle8k&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/d0ngle8k)](https://leetcode.com/d0ngle8k)
 </div>
 
-# 📊 LeetCode Stats
-
-<div align="center";style="background-color:#0D1117; padding:15px; border-radius:6px;">
-  
-  <table>
-    <tr>
-      <td>Total Solved:</td>
-      <td><img src="https://img.shields.io/badge/dynamic/json?style=flat&color=brightgreen&label=&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fd0ngle8k" /></td>
-    </tr>
-    <tr>
-      <td>Ranking:</td>
-      <td><img src="https://img.shields.io/badge/dynamic/json?style=flat&color=blue&label=&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fd0ngle8k" /></td>
-    </tr>
-    <tr>
-      <td>Acceptance Rate:</td>
-      <td><img src="https://img.shields.io/badge/dynamic/json?style=flat&color=orange&label=&query=acceptanceRate&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fd0ngle8k" /></td>
-    </tr>
-    <tr>
-      <td>Contribution Points:</td>
-      <td><img src="https://img.shields.io/badge/dynamic/json?style=flat&color=yellow&label=&query=contributionPoints&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fd0ngle8k" /></td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
 <picture>
