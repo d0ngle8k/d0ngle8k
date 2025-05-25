@@ -124,15 +124,6 @@
 </picture>
 </div>
 
-# 💻 Useful thing (more update coming soon):
-[![Chris Titus Windows Tool](https://img.shields.io/badge/Chris%20Titus%20Windows%20Tool-%23007ACC.svg?style=for-the-badge&logoColor=white)](https://christitus.com/windows-tool/)
-[![Massgrave](https://img.shields.io/badge/Massgrave-%23FF0000.svg?style=for-the-badge&logoColor=white)](https://massgrave.dev/)
-[![VMware Workstation Pro](https://img.shields.io/badge/VMware%20Workstation%20Pro-%23060707.svg?style=for-the-badge&logo=vmware&logoColor=white)](https://www.techspot.com/downloads/189-vmware-workstation-for-windows.html)
-[![VMware Workstation Pro 17 License Keys](https://img.shields.io/badge/VMware%20Workstation%20Pro%2017%20License%20Keys-%23060707.svg?style=for-the-badge&logo=vmware&logoColor=white)](https://github.com/hegdepavankumar/VMware-Workstation-Pro-17-Licence-Keys)
-[![IDM](https://img.shields.io/badge/IDM-%23000000.svg?style=for-the-badge&logoColor=white)](https://www.bing.com/search?q=idm&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=idm&sc=12-3&sk=&cvid=DA7D9E6148EC4ECEAD8F423F9FC19C64&ghsh=0&ghacc=0&ghpl=)
-[![IDM Activation Script](https://img.shields.io/badge/IDM%20Activation%20Script-%23000000.svg?style=for-the-badge&logoColor=white)](https://github.com/lstprjct/IDM-Activation-Script)
-[![Vencord](https://img.shields.io/badge/Vencord-%23007ACC.svg?style=for-the-badge&logoColor=white)](https://vencord.dev/)
-
 <h3 align="left">Connect and support me through :</h3>
 <p align="left" style="display: flex; gap: 10px; align-items: center;">
   <a href="https://www.instagram.com/trggiathanh/" target="_blank" rel="noreferrer">
