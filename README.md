@@ -141,5 +141,7 @@
   <a href="https://www.linkedin.com/in/th%C3%A0nh-tr%C6%B0%C6%A1ng-gia-800609339/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.buymeacoffee.com/d0ngle8k"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=d0ngle8k&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+    <a href="https://buymeacoffee.com/d0ngle8k" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;">
+   </a>
 </p>
