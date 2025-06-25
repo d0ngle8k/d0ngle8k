@@ -10,18 +10,16 @@
 <img align="right" alt="d0ngle8k" src="coding.webp" width="320px" />
 
 
-
 **Talking about personal stuff:**
 
 - 👨 I’m Truong Gia Thanh (d0ngle8k).
 - 😄 Pronouns: he/him/his.
 - 📧 Contact for work: trggiathanh2003@gmail.com
 - 💬 Discord: thanh7051
-- 🌐 Website: [d0ngle8k](https://d0ngle8k.github.io/)
-- 🛜 Currently working on my own base project and doing LeetCode every day<br>
-- 👨🏼‍🎓 Studying computer engineering  at Sai Gon University in Ho Chi Minh City<br>
-- 👨🏼‍💻 Working as a Cyber Analyst/IT Support since 2021 and now working remote as Prompt Engineer for [![Outlier](https://img.shields.io/badge/Outlier-%23000000.svg?style=for-the-badge&logoColor=white)](https://app.outlier.ai/expert/opportunities?utm_source=referral&referring_user=f61bcd324887bc84acfbbb69074c97a17354426b19450a02266103a5ab685f1d84c518af5fcbc2d7bc6f4f5057b9da2c)
-
+- 🌐 Website: [d0ngle8k.github.io](https://d0ngle8k.github.io/) 
+- 🛜 Currently playing CTF<br>
+- 👨🏼‍🎓 Studying computer engineering at Sai Gon University in Ho Chi Minh City<br>
+- 👨🏼‍💻 Working as a Cyber Security Researcher
 
 <h3 align="left">💻 Ask me about:</h3>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -111,10 +109,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=d0ngle8k&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=d0ngle8k&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-[![](https://visitcount.itsvg.in/api?id=d0ngle8k&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://nirzak-streak-stats.vercel.app/?user=d0ngle8k&theme=dark&hide_border=false)<
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d0ngle8k&theme=github_dark" />
-[![Leetcode Stats](https://leetcard.jacoblin.cool/d0ngle8k?ext=activity)](https://leetcode.com/d0ngle8k)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/d0ngle8k?ext=activity)](https://leetcode.com/d0ngle8k)<br>
+[![d0ngle8k's TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/d0ngle8k.png)](https://tryhackme.com/p/d0ngle8k)
 
 </div>
 
