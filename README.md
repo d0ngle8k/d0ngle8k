@@ -110,9 +110,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=d0ngle8k&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=d0ngle8k&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d0ngle8k&theme=github_dark" />
-[![Leetcode Stats](https://leetcard.jacoblin.cool/d0ngle8k?ext=activity)](https://leetcode.com/d0ngle8k)<br>
-[![d0ngle8k's TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/d0ngle8k.png)](https://tryhackme.com/p/d0ngle8k)
-
 </div>
 
 
