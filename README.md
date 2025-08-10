@@ -123,7 +123,7 @@
 
 <h3 align="left">Connect and support me through :</h3>
 <p align="left" style="display: flex; gap: 10px; align-items: center;">
-  <a href="https://www.instagram.com/trggiathanh/" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.instagram.com/trggiathanh/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://www.facebook.com/GiaThanh683/" target="_blank" rel="noreferrer">
@@ -134,7 +134,7 @@
   </a>
   <a href="https://www.linkedin.com/in/th%C3%A0nh-tr%C6%B0%C6%A1ng-gia-800609339/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
+  </a> -->
     <a href="https://buymeacoffee.com/d0ngle8k" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;">
    </a>
