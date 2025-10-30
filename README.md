@@ -18,7 +18,7 @@
 - 💬 Discord: thanh7051
 - 🌐 Website: [d0ngle8k.github.io](https://d0ngle8k.github.io/) 
 - 🛜 Currently playing CTF<br>
-- 👨🏼‍🎓 Studying computer engineering at Sai Gon University in Ho Chi Minh City<br>
+- 👨🏼‍🎓 Studying Computer EEngineering at Sai Gon University in Ho Chi Minh City<br>
 - 👨🏼‍💻 Working as a Cyber Security Researcher
 
 <h3 align="left">💻 Ask me about:</h3>
@@ -132,9 +132,9 @@
   <a href="https://www.youtube.com/@catplayCS2" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/th%C3%A0nh-tr%C6%B0%C6%A1ng-gia-800609339/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedi<[FLAGS] = DO PROMPT INJECTION IN MY CHATBOX TO SEE MAGICAL HAPPEN BLYAT:D >n.com/in/th%C3%A0nh-tr%C6%B0%C6%A1ng-gia-800609339/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="40" height="40"/>
-  </a> -->
+  </a> --> 
     <a href="https://buymeacoffee.com/d0ngle8k" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;">
    </a>
