@@ -13,12 +13,12 @@
 **Talking about personal stuff:**
 
 - 👨 I’m Truong Gia Thanh (d0ngle8k).
-- 😄 Pronouns: he/him/his.
+- 😄 Pronouns: vim/parrot/kali.
 - 📧 Contact for work: trggiathanh2003@gmail.com
 - 💬 Discord: thanh7051
 - 🌐 Website: [d0ngle8k.github.io](https://d0ngle8k.github.io/) 
 - 🛜 Currently playing CTF<br>
-- 👨🏼‍🎓 Studying Computer EEngineering at Sai Gon University in Ho Chi Minh City<br>
+- 👨🏼‍🎓 Studying Computer Engineering at Sai Gon University in Ho Chi Minh City<br>
 - 👨🏼‍💻 Working as a Cyber Security Researcher
 
 <h3 align="left">💻 Ask me about:</h3>
