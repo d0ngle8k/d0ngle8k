@@ -1,5 +1,5 @@
 <h1 align= "center">
-   Hello I'm d0ngle8k, glad that you here. I like interacting with the community, sharing knowledge, and learning new things.
+   Hello I'm d0ngle8k, glad that you here. 
 </h1>
 <div align ="center"> 
 
