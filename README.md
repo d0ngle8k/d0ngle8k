@@ -104,13 +104,13 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Elementary OS](https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white)](https://elementary.io/)
 
-# 📊 Stats:
+<!--# 📊 Stats:
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=d0ngle8k&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=d0ngle8k&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d0ngle8k&theme=github_dark" />
-</div>
+</div>--> 
 
 
 <div align="center">
