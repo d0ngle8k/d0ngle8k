@@ -12,7 +12,7 @@
 
 **Talking about personal stuff:**
 
-- 👨 I’m Truong Gia Thanh (d0ngle8k).
+- 👨 I’m d0ngle8k.
 - 😄 Pronouns: vim/parrot/kali.
 - 📧 Contact for work: trggiathanh2003@gmail.com
 - 💬 Discord: thanh7051
