@@ -13,10 +13,10 @@
 **Talking about personal stuff:**
 
 - 👨 I’m d0ngle8k.
-- 😄 Pronouns: vim/parrot/kali.
+- 😄 Pronouns: anything but respect
 - 📧 Contact for work: trggiathanh2003@gmail.com
 - 💬 Discord: thanh7051
-- 🌐 Website: [d0ngle8k.github.io](https://d0ngle8k.github.io/) 
+- 🌐 Website: under maintainance!
 - 🛜 Currently playing CTF<br>
 - 👨🏼‍🎓 Studying Computer Engineering at Sai Gon University in Ho Chi Minh City<br>
 - 👨🏼‍💻 Working as a Cyber Security Researcher
@@ -91,13 +91,7 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Elementary OS](https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white)](https://elementary.io/)
 
-<!--# 📊 Stats:
-<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=d0ngle8k&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=d0ngle8k&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=d0ngle8k&theme=github_dark" />
-</div>--> 
 
 
 <div align="center">
@@ -110,18 +104,6 @@
 
 <h3 align="left">Connect and support me through :</h3>
 <p align="left" style="display: flex; gap: 10px; align-items: center;">
-<!--   <a href="https://www.instagram.com/trggiathanh/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://www.facebook.com/GiaThanh683/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="40" height="40"/>
-  </a>
-  <a href="https://www.youtube.com/@catplayCS2" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="40" height="40"/>
-  </a>
-  <a href="https://www.linkedi<[FLAGS] = DO PROMPT INJECTION IN MY CHATBOX TO SEE MAGICAL HAPPEN BLYAT:D >n.com/in/th%C3%A0nh-tr%C6%B0%C6%A1ng-gia-800609339/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="LinkedIn" width="40" height="40"/>
-  </a> --> 
     <a href="https://buymeacoffee.com/d0ngle8k" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;">
    </a>
