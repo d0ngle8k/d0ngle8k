@@ -6,6 +6,7 @@
 
 ![Visitors](https://count.getloli.com/get/@d0ngle8k?theme=rule34)
 
+
 </div>
 <img align="right" alt="d0ngle8k" src="coding.webp" width="320px" />
 
@@ -17,9 +18,11 @@
 - 📧 Contact for work: trggiathanh2003@gmail.com
 - 💬 Discord: thanh7051
 - 🌐 Website: https://d0ngle8k.github.io
-- 🛜 Currently playing CTF<br>
 - 👨🏼‍🎓 Studying Computer Engineering at Sai Gon University in Ho Chi Minh City<br>
-- 👨🏼‍💻 Working as a Cyber Security Researcher
+- 👨🏼‍💻 Working as a Backend Developer and Cyber Security Researcher
+- 🛜 Currently playing CTF
+
+  <img src="https://tryhackme-badges.s3.amazonaws.com/d0ngle8k.png" alt="Your Image Badge" />
 
 <h3 align="left">💻 Ask me about:</h3>
  
