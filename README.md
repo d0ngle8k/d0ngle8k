@@ -22,7 +22,6 @@
 - 👨🏼‍💻 Working as a Backend Developer and Cyber Security Researcher
 - 🛜 Currently playing CTF
 
-  <img src="https://tryhackme-badges.s3.amazonaws.com/d0ngle8k.png" alt="Your Image Badge" />
 
 <!-- <h3 align="left">💻 Ask me about:</h3>
 <p align="left">
