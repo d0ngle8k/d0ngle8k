@@ -1,13 +1,13 @@
 <h1 align= "center">
    Hello I'm d0ngle8k, glad that you here. 
 </h1>
-<div align ="center"> 
+<!-- <div align ="center"> 
 
 
 ![Visitors](https://count.getloli.com/get/@d0ngle8k?theme=rule34)
 
 
-</div>
+</div> -->
 <img align="right" alt="d0ngle8k" src="coding.webp" width="320px" />
 
 
