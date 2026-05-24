@@ -44,7 +44,7 @@
 
 
 
-<div align="center">
+<!-- <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DogguG/DogguG/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DogguG/DogguG/output/github-snake.svg" />
@@ -57,4 +57,4 @@
     <a href="https://buymeacoffee.com/d0ngle8k" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;">
    </a>
-</p>
+</p> -->
